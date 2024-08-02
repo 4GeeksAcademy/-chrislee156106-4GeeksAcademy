@@ -1,0 +1,78 @@
+
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+
+  # Profile information
+  first_name: Ezekiel
+  last_name: Obedi
+  motto: stay focused even though you are tired
+  avatar: https://i.ibb.co/NKCfqTn/447206277-465445309223410-7074577232528507724-n.jpg
+  summary: 
+      Driven Full Stack Developer with 1 year of experience in designing, developing, and implementing robust web applications and solutions. Proficient in both front-end and back-end technologies, including HTML, CSS, JavaScript, React, Node.js, and databases such as sqlAlchemy. Adept at collaborating with cross-functional teams to deliver high-quality products on time. Passionate about coding best practices, performance optimization, and staying updated with industry trends. Committed to creating user-friendly and efficient applications that enhance user experience.
+
+  # Sidebar links
+  email: zickeze@gmail.com
+  phone: 9373210912
+  website: N/A #do not add http://
+  linkedin: www.linkedin.com/in/ezekiel-obedi
+  github: chrislee156106
+  twitter: N/A
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+  languages:
+    - idiom: English
+      level: Fluent
+
+    - idiom: Kinyarwanda
+      level: Native
+      
+    - idiom: Kiswahili
+      level: Native
+      
+    - idiom: French
+      level: Native
+      
+    - idiom: Luganda
+      level: Native
+
+  interests: 
+    - item: Soccer
+
+    - item: computer science
+
+    - item: Travel
+    
+    - item: tax prepayer
+
+education:
+  - degree: Certificate in proncing 
+    bootcamp : 4geeks Academy 
+    time: 2024 - almost to finish  
+    details: A high school graduate with a focus on data processing, skilled in managing and analyzing data.
+      Proficient in using various software tools and technologies for data entry, organization, and reporting. 
+      Equipped with a strong foundation in computer science principles and practical experience in data management tasks.
+      
+
+experiences:
+  - role: Management 
+    time: 2021- 2024
+    company: Speedway
+    details: Solving customers complain, mopping the store, cleaning the store and stocking stuff in the store .
+
+
+skills:
+  toolset:
+   
+    - name: Javascript & jQuery
+      level: 60%
+
+    
+    - name: HTML5 & CSS
+      level: 80%
+
+   
